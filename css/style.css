@@ -1,0 +1,19 @@
+/* GENERAL */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* BODY */
+
+body { 
+    background-color: turquoise;
+}
+
+/* TITLE */
+
+h1 {
+    margin-bottom: 2rem;
+}
